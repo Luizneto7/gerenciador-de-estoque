@@ -1,0 +1,12 @@
+{
+  "name": "gerenciador-de-estoque",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "author": "Luiz Neto",
+  "license": "ISC",
+  "description": "API para gerenciamento de estoque."
+}

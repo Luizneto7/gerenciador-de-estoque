@@ -1,7 +1,7 @@
-import { create } from "../controllers/tickets/create.js";
-import { read } from "../controllers/tickets/read.js";
+import { create } from "../controllers/orders/create.js";
+import { read } from "../controllers/orders/read.js";
 
-export const clothing = [
+export const orders = [
   {
     method: "POST",
     path: "/clothes",

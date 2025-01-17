@@ -1,3 +1,3 @@
-import { clothing } from "./clothing.js";
+import { orders } from "./orders.js";
 
-export const routes = [...clothing];
+export const routes = [...orders];
